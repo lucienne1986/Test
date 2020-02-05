@@ -20,3 +20,5 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+Welcome to the home page of {{ company_name }}!  
+If you have any questions, please contact us at: {{ contact_phone_no }}.
