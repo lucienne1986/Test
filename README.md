@@ -1,6 +1,6 @@
  
                       
-        AMM12
+        # AMM12
         ___
         
         [Purpose](#purpose)  |  [Contact](#contact)  |  [License](#license)  |  [Configuration](#configuration) |
@@ -9,17 +9,17 @@
         
         ____
         
-        Purpose
+        # Purpose
         
         The purpose of this is to create a readme file
         
         
-         Contact
+        # Contact
         
         Lucienne Micallef - lmicallef@geomar.de
         
         
-         License
+        # License
         
         **By downloading this repository and using this code you agree 
         to the following conditions.**
