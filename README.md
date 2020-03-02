@@ -16,7 +16,7 @@
         
         # Contact
         
-        Lucienne Micallef - lmicallef@geomar.de
+        
         
         
         # License
